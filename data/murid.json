@@ -1,0 +1,23 @@
+[
+    {
+        "nama": "ILHAM",
+        "kelas": "X RPL 1",
+        "email": "ILHAM@gmail.com",
+        "jurusan": "RPL",
+        "waliKelas": "Selly"
+    },
+    {
+        "nama": "DADANG",
+        "kelas": "X RPL 1",
+        "email": "DADANG@gmail.com",
+        "jurusan": "RPL",
+        "waliKelas": "Selly"
+    },
+    {
+        "nama": "KUKUR",
+        "kelas": "X RPL 1",
+        "email": "KUKUR@gmail.com",
+        "jurusan": "RPL",
+        "waliKelas": "Selly"
+    }
+]
